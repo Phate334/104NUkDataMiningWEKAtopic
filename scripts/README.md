@@ -13,3 +13,6 @@
 4. 執行![check_file.py](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/scripts/check_file.py)檢查上傳的data和model是否符合規定，並在team.json中加入狀態資訊。上交檔案有缺失的組別會直接跳過後面的測試。
 5. 執行![test_model.py](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/scripts/test_model.py)開始測試繳交的model，所有結果放在result下存成txt檔。
 6. 執行![rank.py](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/scripts/rank.py)解析result中的結果，取出每份測試的F-Measure、ROC Area，並以總和作為排序標準。
+
+## 測試結果
+請上elearning教學平台查看。
