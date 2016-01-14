@@ -16,3 +16,8 @@ WEKA重新評估模型的功能只支援![arff格式](https://weka.wikispaces.co
 ## 測試資料
 資料來源: ![Census-Income (KDD) Data Set](https://archive.ics.uci.edu/ml/datasets/Census-Income+%28KDD%29)使用census-income.data及census-income.test兩份資料作為候選資料集。
 
+![欄位對應](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/data/test/%E6%AC%84%E4%BD%8D%E5%B0%8D%E7%85%A7.xlsx)
+
+![hours_multip.py](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/data/test/hours_multip.py)用來計算Census-Income缺少的hours-per-week欄位。
+
+![select.py](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/data/test/select.py)控制候選資料集中帶有缺漏值的記錄數量，並從中產生兩份測試資料，![test_miss.csv](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/data/test/test_miss.csv)、![test_no_miss.csv](https://github.com/Phate334/104NUkDataMiningWEKAtopic/blob/master/data/test/test_no_miss.csv)。
