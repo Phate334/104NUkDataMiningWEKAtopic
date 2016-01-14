@@ -1,6 +1,8 @@
 # 104NUkDataMiningWEKAtopic
 104學年高雄大學資料探勘期末專題
 
+授課教師: 林文揚 教授
+
 # 目錄結構
 * Slides: 包含幾次WEKA相關的簡報投影片。
 * data: 測試與訓練資料。
